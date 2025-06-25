@@ -1,0 +1,48 @@
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos de build
+build/
+dist/
+out/
+
+# Dependências
+node_modules/
+vendor/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.production
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache
+.cache/
+*.cache
+
+# Arquivos de backup
+*.bak
+*.backup
+
+# Arquivos de teste
+test/
+tests/
+*.test.js
+*.spec.js
+
+# Arquivos de documentação temporários
+docs/temp/
+
+# Arquivos de deploy
+.netlify/ 
