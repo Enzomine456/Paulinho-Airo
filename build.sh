@@ -322,7 +322,7 @@ cat > public/index.html << 'EOL'
         </div>
 
         <div class="footer">
-            <p>&copy; 2024 Paulo Roberto AI - Desenvolvido com inteligência artificial</p>
+            <p></p>
         </div>
     </div>
 
